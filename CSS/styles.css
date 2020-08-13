@@ -1,0 +1,99 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family:'Merriweather',serif;
+    
+}
+h1{
+    margin-top:0 ;
+    font-family: 'sacramento',cursive;
+    font-size: 5.625em;
+}
+h2{
+    font-family:'Montserrat', sans-serif;
+    color:#158467;
+}
+h3{
+    font-family: 'Montserrat',sans-serif;
+}
+
+.top-container{
+    background-color: #68B0AB;
+   
+    padding-top: 100px;
+}
+.bottom-container{
+    background-color:#68B0AB;
+}
+.top-cloud{
+    position: absolute;
+    right:300px;
+    top: 50px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+    top: 300px;
+}
+.dev1{
+    width: 150px;
+    height: 150px;
+    padding-left: 0px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+.dev2{
+    width: 150px;
+    height: 150px;
+    padding-left: 0px;
+    padding-right: 50px;
+    padding-top: 50px;
+}
+
+.me{
+    width: 200px;
+    height: 200px;
+    padding-top: 20px;
+}
+.top-img{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+    width: 50px;
+    height: 50px;
+
+}
+.skill{
+    display: inline;
+    position: relative;
+    width: 50%;
+    height: 50%;
+    padding-right:10%;
+    padding-left:10% ;
+}
+
+hr{
+    border-style: dotted;
+    border-top: none;
+    border-color:lightblue;
+    border-width: 5px;
+    width: 5%;
+    
+}
+.bottom-container{
+    padding-top: 100px;
+}
+button{
+    color: lightsalmon;
+}
+.middle-container{
+    background-color: #DDDDDD;
+}
+.fb{
+    width: 30px;
+    height: 30px;
+}
+.insta{
+    width: 30px;
+    height: 30px;
+}
